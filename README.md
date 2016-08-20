@@ -1,0 +1,2 @@
+- Telegraf for Oracle DB
+- Kapacitor for Oracle DB
